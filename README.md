@@ -95,13 +95,26 @@ Foto hasil:
 ![](Pics/5a.png)
 ### b
 Foto hasil:
-- 100 bilangan
-![](Pics/5a.png)
-
+- 10 bilangan random
+![](Pics/5b10.png)
+- 100 bilangan random
+![](Pics/5b100.png)
+- 1000 bilangan random
+![](Pics/5b1000.png)
+- 10000 bilangan random
+![](Pics/5b10000.png)
 ### c
+Foto hasil:
+![](Pics/5c.png)
 
 ## Nomor 6
 **[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%206.R)**\
 ### a
+Foto hasil:
+![](Pics/6a.png)
 ### b
+Foto hasil:
+![](Pics/6b.png)
 ### c
+Foto hasil:
+![](Pics/6c.png)
