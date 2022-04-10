@@ -18,7 +18,7 @@ Kelas: D
 ---
 
 ## Nomor 1
-**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%201.R)**\
+**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%201.R)**
 ### a
 Foto hasil:
 ![](Pics/1a.png)
@@ -52,7 +52,7 @@ Foto hasil:
 - menampilkan nilainya
 
 ## Nomor 2
-**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%202.R)**\
+**[Source Code Nomor 2](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%202.R)**
 ### a
 Foto hasil:
 ![](Pics/2a.png)
@@ -64,7 +64,7 @@ Foto hasil:
 ![](Pics/2c.png)
 
 ## Nomor 3
-**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%203.R)**\
+**[Source Code Nomor 2](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%203.R)**
 ### a
 Foto hasil:
 ![](Pics/3a.png)
@@ -77,7 +77,7 @@ Foto hasil:
 ![](Pics/3d.png)
 
 ## Nomor 4
-**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%204.R)**\
+**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%204.R)**
 ### a
 Foto hasil:
 ![](Pics/4a.png)
@@ -89,7 +89,7 @@ Foto hasil:
 ![](Pics/4b.png)
 
 ## Nomor 5
-**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%205.R)**\
+**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%205.R)**
 ### a
 Foto hasil:
 ![](Pics/5a.png)
@@ -108,7 +108,7 @@ Foto hasil:
 ![](Pics/5c.png)
 
 ## Nomor 6
-**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%206.R)**\
+**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%206.R)**
 ### a
 Foto hasil:
 ![](Pics/6a.png)
