@@ -19,7 +19,7 @@ Kelas: D
 
 ## Nomor 1
 ### a
-**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%201.R)**
+**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%201.R)**\
 Foto hasil:\n
 ![](Pics/1a.png)
 
