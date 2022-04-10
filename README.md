@@ -5,6 +5,18 @@ NRP  : 5025201188\
 Kelas: D
 
 ---
+
+## Tabel Konten
+- [Soal 1](#nomor-1)
+- [Soal 2](#nomor-2)
+- [Soal 3](#nomor-3)
+- [Soal 3](#nomor-4)
+- [Soal 3](#nomor-5)
+- [Soal 3](#nomor-6)
+
+
+---
+
 ## Nomor 1
 ## Nomor 2
 ## Nomor 3
