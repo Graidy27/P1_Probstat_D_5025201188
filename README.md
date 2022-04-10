@@ -1,1 +1,5 @@
-# P1_Probstat_D_5025201188
+# Praktikum Probstat D 2021
+Nama : Graidy Megananda
+NRP  : 5025201188
+Kelas: D
+---
