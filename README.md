@@ -43,30 +43,40 @@ Kesimpulannya:
 Foto hasil:
 ![](Pics/1d.png)
 - Berdasarkan referensi yang tersertakan di code soal 1, maka diinstal 2 library tambahan `ggplot2` dan `dplyr`
-- Melakukan proses pembuatan grafik sesuai arahan referensi
+- Range data untuk dibandingkan adalah saat nilai x = 0 sampai x = 4
+- Hasil setiap range dihitung dan ditampilkan dalam bentuk histogram
 ### e
+Foto hasil:
+![](Pics/1e.png)
+- Rata-rata didapatkan dengan membagi `x` dengan `p`
+- menampilkan nilainya
 
 ## Nomor 2
+**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%202.R)**\
 ### a
 ### b
 ### c
 
 ## Nomor 3
+**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%203.R)**\
 ### a
 ### b
 ### c
 
 ## Nomor 4
+**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%204.R)**\
 ### a
 ### b
 ### c
 
 ## Nomor 5
+**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%205.R)**\
 ### a
 ### b
 ### c
 
 ## Nomor 6
+**[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%206.R)**\
 ### a
 ### b
 ### c
