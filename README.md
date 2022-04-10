@@ -18,6 +18,8 @@ Kelas: D
 ---
 
 ## Nomor 1
+![](Pics/1a.png)
+
 ## Nomor 2
 ## Nomor 3
 ## Nomor 4
