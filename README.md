@@ -18,13 +18,19 @@ Kelas: D
 ---
 
 ## Nomor 1
-### a
 **[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%201.R)**\
-Foto hasil:\n
+### a
+Foto hasil:
 ![](Pics/1a.png)
-
+- Dari soal diketahui x bernilai 3 dan probabilitas (p) bernilai 0.2.
+- Dengan menggunakan fungsi bawaan `dgeom`, maka peluang distribusi geometrik dapat dicari. 
+- Nilai tersebut kemudian dimasukkan ke dalam variabel `ans_a`
 
 ### b
+Foto hasil:
+![](Pics/1b.png)
+- 
+
 ### c
 ### d
 ### e
