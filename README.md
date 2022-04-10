@@ -54,25 +54,50 @@ Foto hasil:
 ## Nomor 2
 **[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%202.R)**\
 ### a
+Foto hasil:
+![](Pics/2a.png)
 ### b
+Foto hasil:
+![](Pics/2b.png)
 ### c
+Foto hasil:
+![](Pics/2c.png)
 
 ## Nomor 3
 **[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%203.R)**\
 ### a
+Foto hasil:
+![](Pics/3a.png)
 ### b
+Foto hasil:
+![](Pics/3b.png)
 ### c
+### d
+Foto hasil:
+![](Pics/3d.png)
 
 ## Nomor 4
 **[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%204.R)**\
 ### a
+Foto hasil:
+![](Pics/4a.png)
 ### b
+Foto hasil:
+![](Pics/4b.png)
 ### c
+Foto hasil:
+![](Pics/4b.png)
 
 ## Nomor 5
 **[Source Code Nomor 1](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%205.R)**\
 ### a
+Foto hasil:
+![](Pics/5a.png)
 ### b
+Foto hasil:
+- 100 bilangan
+![](Pics/5a.png)
+
 ### c
 
 ## Nomor 6
