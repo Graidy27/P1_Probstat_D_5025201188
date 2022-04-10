@@ -29,10 +29,21 @@ Foto hasil:
 ### b
 Foto hasil:
 ![](Pics/1b.png)
-- 
+- Dari soal diketahui n = 10000
+- Dengan menggunakan `fungsi mean()` dan `rgeomm()` pada r, maka rata-rata dari distribusi geometrik acak dapat dicari.
+- Nilai tersebut kemudian dimasukkan ke dalam variabel `ans_b` dan ditampilkan
 
 ### c
+Kesimpulannya:
+- Hasil yang didapatkan a tetap, sedangkan b berubah di rentang 0.09~0.11.
+- Meskipun hasil b berubah-ubah, nilainya mendekati nilai a.
+
+
 ### d
+Foto hasil:
+![](Pics/1d.png)
+- Berdasarkan referensi yang tersertakan di code soal 1, maka diinstal 2 library tambahan `ggplot2` dan `dplyr`
+- Melakukan proses pembuatan grafik sesuai arahan referensi
 ### e
 
 ## Nomor 2
