@@ -10,7 +10,7 @@ hist(rchisq(n, v))
 
 #c
 rataan <- v
-printf(rataan)
+print(rataan)
 
 varian <- 2 * v
 print(varian)
