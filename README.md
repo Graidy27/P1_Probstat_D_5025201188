@@ -7,12 +7,12 @@ Kelas: D
 ---
 
 ## Tabel Konten
-- [Soal 1](#nomor-1)
+- [Soal 1](#nomor-1)  
 - [Soal 2](#nomor-2)
 - [Soal 3](#nomor-3)
-- [Soal 3](#nomor-4)
-- [Soal 3](#nomor-5)
-- [Soal 3](#nomor-6)
+- [Soal 4](#nomor-4)
+- [Soal 5](#nomor-5)
+- [Soal 6](#nomor-6)
 
 
 ---
@@ -139,7 +139,7 @@ Foto hasil:
 ## Nomor 6
 **[Source Code Nomor 6](https://github.com/Graidy27/P1_Probstat_D_5025201188/blob/main/Nomor%206.R)**
 ### a
-Foto hasil:
+Foto hasil:\
 Nilai z
 ![](Pics/6a.png)
 - Dari soal didapatkan nilai n, median, dan sd berturut-turut adalah 100, 50, dan 8.
